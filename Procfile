@@ -1,1 +1,1 @@
-web: gunicorn aplikasi.wsgi --log-file -
+web: gunicorn aplikasi-danen.wsgi --log-file -
